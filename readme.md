@@ -10,3 +10,5 @@ After that, I’ll learn Vite and figure out the difference on my own—that's m
 
 Let’s go! 🚀
 
+Finished:2025.3.12
+total time: 1h42m
