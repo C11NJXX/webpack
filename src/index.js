@@ -1,4 +1,4 @@
-import greet from './greet.js';
+import generateJoke from './generateJoke'
 import './styles/main.scss'
 
-greet('C_11nJxx');
+generateJoke();
