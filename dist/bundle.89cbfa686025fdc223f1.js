@@ -487,9 +487,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 function generateJoke() {
-    return 'jokes';
+  return 'jokes';
 }
-
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (generateJoke);
 
 /***/ }),
@@ -630,10 +629,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_main_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./styles/main.scss */ "./src/styles/main.scss");
 
 
-
 (0,_generateJoke__WEBPACK_IMPORTED_MODULE_0__["default"])();
 })();
 
 /******/ })()
 ;
-//# sourceMappingURL=bundle.6bc5451c198429fd0408.js.map
+//# sourceMappingURL=bundle.89cbfa686025fdc223f1.js.map
