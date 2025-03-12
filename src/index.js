@@ -1,3 +1,3 @@
-import greet from 'greet';
+import greet from './greet.js';
 
 greet('C_11nJxx');
